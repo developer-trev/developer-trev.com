@@ -1,0 +1,22 @@
+{
+  "name": "developer-trev.com",
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer-trev/developer-trev.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developer-trev/developer-trev.com/issues"
+  },
+  "homepage": "https://github.com/developer-trev/developer-trev.com#readme",
+  "description": "",
+  "devDependencies": {
+    "grunt": "^1.6.1"
+  }
+}
