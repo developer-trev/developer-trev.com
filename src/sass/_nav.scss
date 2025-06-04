@@ -1,0 +1,13 @@
+nav {
+    h1 {
+        font-size: 1.75rem;
+        a {
+            text-decoration: none;
+            color: $color-mid-gray;
+            &:hover {
+                color: $color-dark-gray;
+                text-decoration: underline;
+            }
+        }
+    }
+}

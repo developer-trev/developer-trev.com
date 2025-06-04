@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url($font-roboto-extra-light) format('truetype');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url($font-roboto-light) format('truetype');
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url($font-roboto-bold) format('truetype');
+}
+@font-face {
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url($font-roboto-mono) format('truetype');
+}
+
+$font-heading: 'Roboto', sans-serif;
+$font-primary: 'Roboto', sans-serif;
+$font-mono: 'Roboto Mono', mono;
